@@ -17,7 +17,7 @@ Evenly sampled VAE results across 40 epochs, showing Bernoulli sample (left) and
 
 ## GANs
 
-Evenly sampled GAN results across 150 epochs.
+Evenly sampled GAN results across 150 epochs. Same sampling seed was used.
 
 ![](gan/results/gan.gif)
 
