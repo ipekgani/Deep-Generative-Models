@@ -8,6 +8,8 @@ General questions regarding the topic and the models can be found in the [assign
 
 ## VAE
 Evenly sampled VAE results across 40 epochs, showing Bernoulli sample (left) and means (right). Latent space is 20 dimensional.
+
+
 ![](vae/results/vae_samples.gif) ![](vae/results/vae_means.gif)
 
 - Manifold plot for 2 dimensional latent space.
