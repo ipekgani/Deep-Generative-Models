@@ -5,7 +5,7 @@ This repository contains PyTorch implementations of Variational Auto Encoders an
 
 General questions regarding the topic and the models can be found in the [assignment PDF](_assignment_questions.pdf). Insights and results can be found in the [report](_report_answers.pdf).
 
-#Results
+# Results
 
 ## VAEs
 
