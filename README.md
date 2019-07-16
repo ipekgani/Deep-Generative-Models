@@ -3,23 +3,29 @@ VAEs and GANs for MNIST(UvA 2019 Deep Learning course Assignment)
 
 This repository contains PyTorch implementations of Variational Auto Encoders and Generative Adversarial Networks and a report comparing their results and attributes based on MNIST data.
 
-General questions regarding the topic and the models can be found in the [assignment PDF](_assignment_questions.pdf) PDF. Insights and results can be found in the [report](_report_answers.pdf).
+General questions regarding the topic and the models can be found in the [assignment PDF](_assignment_questions.pdf). Insights and results can be found in the [report](_report_answers.pdf).
+
 #Results
 
 ## VAE
+
 Evenly sampled VAE results across 40 epochs, showing Bernoulli sample (left) and means (right). Latent space is 20 dimensional.
 
 
 ![](vae/results/vae_samples.gif) ![](vae/results/vae_means.gif)
 
 - Manifold plot for 2 dimensional latent space.
+
 ![](vae/results/z=2/0_manifold.png)
 
 ## GAN
+
 Evenly sampled GAN results across 150 epochs.
+
 ![](gan/results/gan.gif)
 
 - Interpolation between digits
+
 ![](gan/results/interpolated.png)
 ![](gan/results/interpolated_2.png)
 ![](gan/results/interpolated_3.png)
