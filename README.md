@@ -16,7 +16,7 @@ Evenly sampled VAE results across 40 epochs, showing Bernoulli sample (left) and
 
 - Manifold plot for 2 dimensional latent space.
 
-![](vae/results/z=2/0_manifold.png)
+![](vae/results/z=2/0_manifold.png| width=100)
 
 ## GAN
 
@@ -27,7 +27,9 @@ Evenly sampled GAN results across 150 epochs.
 - Interpolation between digits
 
 ![](gan/results/interpolated.png)
+
 ![](gan/results/interpolated_2.png)
+
 ![](gan/results/interpolated_3.png)
 
 ### Acknowledgement
